@@ -1,1 +1,2 @@
 # To_Do_App
+First, download the entire codebase and extract the contents from the zip file. Open both the FrontEnd and BackEnd directories in Visual Studio Code. Next, initialize the database by following the instructions in the database folder. To start the server, navigate to the BackEnd directory in the terminal within Visual Studio Code and execute the command node server.js. Finally, move to the FrontEnd directory and run npm run dev in the terminal. Once done, click on the localhost link to launch the front-end application
